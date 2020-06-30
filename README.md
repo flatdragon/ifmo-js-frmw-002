@@ -1,4 +1,6 @@
-# 002
+# Задание FRWM-002
+## Связывание данных на Vue
+Итоговое приложение развернуто на [GitHub Pages](https://flatdragon.github.io/ifmo-js-frmw-002/).
 
 ## Project setup
 ```
